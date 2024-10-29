@@ -1,0 +1,7 @@
+proyecto/
+├── api.py              # API FastAPI
+├── config.py           # Configuración y constantes
+├── correos_tracker.py  # Clase principal del tracker
+├── requirements.txt    # Dependencias del proyecto
+├── .gitignore         # Archivos a ignorar
+└── README.md          # Documentación
